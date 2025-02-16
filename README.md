@@ -3,7 +3,7 @@ An innovative hands-free mouse controller powered by eye movements, built using 
 ![download (1)](https://github.com/user-attachments/assets/f837b5d9-2483-48dc-af14-7f421a4918a8)                                                           ![download](https://github.com/user-attachments/assets/d93bd69b-209c-4682-99f5-157db204a5bb)
 
 
-Features:
+# Features:
 
    Real-time Eye Tracking: Utilizes OpenCV and MediaPipe to detect and track eye movements in real-time.
 
