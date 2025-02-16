@@ -23,3 +23,22 @@ MediaPipe: For facial landmark detection and eye tracking.
 PyAutoGUI: For simulating mouse movements and clicks.
 
 Python: The core programming language for the project.
+
+# Installation
+Prerequisites
+Python 3.7 or higher
+
+Webcam
+
+Steps
+Clone the repository:
+
+bash
+Copy
+git clone https://github.com/your-username/eye-mouse-controller.git
+cd eye-mouse-controller
+Install the required dependencies:
+
+bash
+Copy
+pip install -r requirements.txt
