@@ -60,6 +60,11 @@ Right Click: Blink twice or perform another predefined gesture.
 Exit: Press Q to quit the application.
 
 # Acknowledgments## Acknowledgments
-Thanks to [MediaPipe](https://mediapipe.dev/) for providing an excellent framework for facial landmark detection.
+
+[MediaPipe](https://mediapipe.dev/) for the face mesh model.
+
+OpenCV for real-time image processing.
+
+PyAutoGUI for mouse control
 
 Inspired by accessibility projects that aim to improve the lives of individuals with disabilities.
