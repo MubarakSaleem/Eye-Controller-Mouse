@@ -22,9 +22,9 @@ An innovative hands-free mouse controller powered by eye movements, built using 
 
 👤MediaPipe: For facial landmark detection and eye tracking.
 
-🖱️PyAutoGUI: For simulating mouse movements and clicks.
+🖱️PyAutoGUI: For simulating mouse movements and clicks..
 
-Python: The core programming language for the project.
+💻Python: The core programming language for the project.
 
 # Installation
 Prerequisites
@@ -70,3 +70,20 @@ Exit: Press Q to quit the application.
 [PyAutoGUI](https://pyautogui.dev/) for mouse control
 
 Inspired by accessibility projects that aim to improve the lives of individuals with disabilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
