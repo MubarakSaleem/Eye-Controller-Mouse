@@ -7,11 +7,11 @@ An innovative hands-free mouse controller powered by eye movements, built using 
 
   1)Real-time Eye Tracking: Utilizes OpenCV and MediaPipe to detect and track eye movements in real-time.
 
-  2) Cursor Control: Maps eye movements to mouse cursor movements using PyAutoGUI.
+  2)Cursor Control: Maps eye movements to mouse cursor movements using PyAutoGUI.
  
   3)Click Gestures: Supports left-click and right-click actions through predefined eye gestures (e.g., blinking or prolonged gaze).
 
-  4) Customizable Sensitivity: Adjustable parameters for cursor speed and gesture detection thresholds.
+  4)Customizable Sensitivity: Adjustable parameters for cursor speed and gesture detection thresholds.
 
   5)Cross-Platform: Works on Windows, macOS, and Linux.
 
