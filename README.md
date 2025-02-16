@@ -5,15 +5,15 @@ An innovative hands-free mouse controller powered by eye movements, built using 
 
 # Features
 
-   Real-time Eye Tracking: Utilizes OpenCV and MediaPipe to detect and track eye movements in real-time.
+  1)Real-time Eye Tracking: Utilizes OpenCV and MediaPipe to detect and track eye movements in real-time.
 
-   Cursor Control: Maps eye movements to mouse cursor movements using PyAutoGUI.
+  2) Cursor Control: Maps eye movements to mouse cursor movements using PyAutoGUI.
  
-   Click Gestures: Supports left-click and right-click actions through predefined eye gestures (e.g., blinking or prolonged gaze).
+  3)Click Gestures: Supports left-click and right-click actions through predefined eye gestures (e.g., blinking or prolonged gaze).
 
-   Customizable Sensitivity: Adjustable parameters for cursor speed and gesture detection thresholds.
+  4) Customizable Sensitivity: Adjustable parameters for cursor speed and gesture detection thresholds.
 
-   Cross-Platform: Works on Windows, macOS, and Linux.
+  5)Cross-Platform: Works on Windows, macOS, and Linux.
 
 # Technologies Used
 OpenCV: For real-time video processing and eye detection.
@@ -34,11 +34,27 @@ Steps
 Clone the repository:
 
 bash
-Copy
+
 git clone https://github.com/MubarakSaleem/Eye-Controller-Mouse.git
-cd eye-mouse-controller
+cd Eye-Controller-Mouse
 Install the required dependencies:
 
 bash
-Copy
 pip install -r requirements.txt
+opencv-python==4.7.0.72
+mediapipe==0.10.0
+pyautogui==0.9.54
+numpy==1.24.3
+
+# Usage
+Calibration: Follow the on-screen instructions to calibrate the eye tracking system.
+
+Cursor Movement: Move your eyes to control the mouse cursor.
+
+Click Gestures:
+
+Left Click: Blink once or perform a specific gesture (e.g., prolonged gaze).
+
+Right Click: Blink twice or perform another predefined gesture.
+
+Exit: Press Q to quit the application.
