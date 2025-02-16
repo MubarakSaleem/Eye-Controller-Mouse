@@ -1,5 +1,6 @@
 # Eye-Controller-Mouse
 An innovative hands-free mouse controller powered by eye movements, built using Python, OpenCV, MediaPipe, and PyAutoGUI. This project enables users to control their computer cursor using their eyes, providing an accessible solution for individuals with limited mobility
+![download (1)](https://github.com/user-attachments/assets/f837b5d9-2483-48dc-af14-7f421a4918a8)
 
 Features:
 
