@@ -35,7 +35,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/eye-mouse-controller.git
+git clone https://github.com/MubarakSaleem/Eye-Controller-Mouse.git
 cd eye-mouse-controller
 Install the required dependencies:
 
