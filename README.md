@@ -58,3 +58,8 @@ Left Click: Blink once or perform a specific gesture (e.g., prolonged gaze).
 Right Click: Blink twice or perform another predefined gesture.
 
 Exit: Press Q to quit the application.
+
+# Acknowledgments
+Thanks to MediaPipe for providing an excellent framework for facial landmark detection.
+
+Inspired by accessibility projects that aim to improve the lives of individuals with disabilities.
