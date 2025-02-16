@@ -41,10 +41,10 @@ Install the required dependencies:
 
 bash
 pip install -r requirements.txt
-opencv-python==4.7.0.72
-mediapipe==0.10.0
-pyautogui==0.9.54
-numpy==1.24.3
+  opencv-python==4.7.0.72
+  mediapipe==0.10.0
+  pyautogui==0.9.54
+  numpy==1.24.3
 
 # Usage
 Calibration: Follow the on-screen instructions to calibrate the eye tracking system.
