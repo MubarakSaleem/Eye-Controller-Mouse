@@ -59,7 +59,7 @@ Right Click: Blink twice or perform another predefined gesture.
 
 Exit: Press Q to quit the application.
 
-# Acknowledgments## Acknowledgments
+# Acknowledgments
 
 [MediaPipe](https://mediapipe.dev/) for the face mesh model.
 
