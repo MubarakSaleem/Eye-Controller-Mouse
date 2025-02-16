@@ -63,8 +63,8 @@ Exit: Press Q to quit the application.
 
 [MediaPipe](https://mediapipe.dev/) for the face mesh model.
 
-OpenCV for real-time image processing.
+[OpenCV](https://opencv.dev/) for real-time image processing.
 
-PyAutoGUI for mouse control
+[PyAutoGUI](https://pyautogui.dev/) for mouse control
 
 Inspired by accessibility projects that aim to improve the lives of individuals with disabilities.
