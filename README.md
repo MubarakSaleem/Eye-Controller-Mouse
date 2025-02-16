@@ -1,5 +1,6 @@
 # Eye-Controller-Mouse
 An innovative hands-free mouse controller powered by eye movements, built using Python, OpenCV, MediaPipe, and PyAutoGUI. This project enables users to control their computer cursor using their eyes, providing an accessible solution for individuals with limited mobility
+
 ![download](https://github.com/user-attachments/assets/d93bd69b-209c-4682-99f5-157db204a5bb)
 ![download (1)](https://github.com/user-attachments/assets/f837b5d9-2483-48dc-af14-7f421a4918a8)
 
@@ -16,11 +17,12 @@ An innovative hands-free mouse controller powered by eye movements, built using 
   5)Cross-Platform: Works on Windows, macOS, and Linux.
 
 # Technologies Used
-OpenCV: For real-time video processing and eye detection.
 
-MediaPipe: For facial landmark detection and eye tracking.
+📷OpenCV: For real-time video processing and eye detection.
 
-PyAutoGUI: For simulating mouse movements and clicks.
+👤MediaPipe: For facial landmark detection and eye tracking.
+
+🖱️PyAutoGUI: For simulating mouse movements and clicks.
 
 Python: The core programming language for the project.
 
